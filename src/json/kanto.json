@@ -249,7 +249,7 @@
         "type1__class": "normalType",
         "type2": "飛行",
         "type2__class": "flyingType",
-        "image": "/mages/pokemon017.png",
+        "image": "/images/pokemon017.png",
         "shinyimage": "/images/pokemon017_shiny.png",
         "category": "鳥寶可夢",
         "about": "會飛在空中巡視自己廣大的地盤。要是有誰膽敢侵犯牠的地盤，牠會毫不留情地用利爪狠狠教訓一番。",
